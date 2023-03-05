@@ -2,7 +2,7 @@
 myPortfolio (React, tailwind)
 
 # 使用フレームワーク、ライブラリ
-react, react-rooter-dom, tailwindcss
+react, react-rooter-dom, tailwindcss　etc...
 
 # todo
-レスポンシブ対応、
+レスポンシブ対応、favicon setting
