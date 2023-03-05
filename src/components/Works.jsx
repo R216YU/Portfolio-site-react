@@ -15,7 +15,7 @@ const Works = () => {
       <div className='box'>
         <div className='flex justify-center gap-8'>
           <div className="works-image">
-            <img src={work1} alt="works" className='' />
+            <a href="https://github.com/R216YU/Portfolio-site-react" target="_blank" rel="noopener noreferrer"><img src={work1} alt="works" className='' /></a>
           </div>
 
           <div className="works-text">
@@ -31,7 +31,7 @@ const Works = () => {
       <div className='box'>
         <div className='flex justify-center gap-8'>
           <div className="works-image">
-            <img src={work2} alt="works" className='' />
+            <a href="https://github.com/R216YU/portfolio_app" target="_blank" rel="noopener noreferrer"><img src={work2} alt="works" className='' /></a>
           </div>
 
           <div className="works-text">
