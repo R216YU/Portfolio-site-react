@@ -1,8 +1,8 @@
 # Portfolio-site-react
 myPortfolio (React, tailwind)
 
-#使用フレームワーク、ライブラリ
+# 使用フレームワーク、ライブラリ
 react, tailwindcss
 
-#todo
+# todo
 レスポンシブ対応、
