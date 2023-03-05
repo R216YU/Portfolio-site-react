@@ -5,4 +5,4 @@ myPortfolio (React, tailwind)
 react, react-rooter-dom, tailwindcss　etc...
 
 # todo
-レスポンシブ対応、favicon setting
+レスポンシブ対応、favicon setting、works link setting
