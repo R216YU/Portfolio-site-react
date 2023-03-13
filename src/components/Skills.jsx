@@ -6,7 +6,7 @@ import { SiJavascript } from "react-icons/si"
 const Skills = () => {
   return (
 
-    <div id='skills' className='section'>
+    <div id='skills' className='section min-h-screen'>
 
       <div className="text-center">
         <h2 className='text-3xl font-bold border-b-4 border-accent inline-block'>SKILLS</h2>

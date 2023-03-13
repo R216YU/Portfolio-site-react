@@ -5,7 +5,7 @@ import thumb from '../images/thumb.jpg'
 const Profile = () => {
   return (
 
-    <div id='profile' className='section h-screen font-notoSans'>
+    <div id='profile' className='section min-h-screen font-notoSans'>
 
       <div className='py-20'>
 

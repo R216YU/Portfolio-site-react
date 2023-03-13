@@ -6,7 +6,7 @@ import work2 from '../images/work2.png'
 const Works = () => {
   return (
 
-    <div id='works' className='section h-screen'>
+    <div id='works' className='section min-h-screen'>
 
       <div className='text-center'>
         <h2 className='text-3xl font-bold border-b-4 border-accent inline-block'>WORKS</h2>
