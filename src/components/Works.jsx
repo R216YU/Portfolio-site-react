@@ -2,6 +2,7 @@ import React from 'react'
 
 import work1 from '../images/work1.png'
 import work2 from '../images/work2.png'
+import work3 from '../images/work3.png'
 
 const Works = () => {
   return (
@@ -40,6 +41,24 @@ const Works = () => {
               私の趣味であるオンラインゲームに関するwebアプリです。 <br />
               チームバランスを考慮しながら、複数のプレイヤーを2チームに分けられます。 <br />
               利用言語はPython3 Django, HTML, CSS <br />
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className='box'>
+        <div className='flex justify-center gap-8'>
+          <div className="works-image">
+            <a href="https://r216yu.pythonanywhere.com/" target="_blank" rel="noopener noreferrer"><img src={work3} alt="works" className='' /></a>
+          </div>
+
+          <div className="works-text">
+            <h3 className='text-2xl mb-8'>勤怠管理アプリケーション <span className='text-sm'>(deployed)</span> </h3>
+            <p className='leading-7 font-notoSans'>
+              企業課題で勤怠管理webアプリを作成しました。<br />
+              従業員は自らアカウントを作成し、打刻することができます。<br />
+              管理者はそれらのデータを一覧で見たり、一部のユーザーのデータを詳細に見ることができます。 <br />
+              利用言語はPython3 Django, HTML, CSS(tailwind css) <br />
             </p>
           </div>
         </div>
